@@ -7,6 +7,7 @@ import useStyles from './styles';
 
 const Navbar = () => {
     const classes = useStyles();
+    
   return (
     <>
         <AppBar position="fixed" className={classes.appBar} color="inherit">
